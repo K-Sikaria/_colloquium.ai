@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cb9187b.css",
+    "main.js": "/static/js/main.8bbae9a2.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/signup2.jpg": "/static/media/signup2.ac2706498156d0d5d958.jpg",
+    "static/media/homeImg.png": "/static/media/homeImg.9232e53dbd601662b729.png",
+    "static/media/resume.jpg": "/static/media/resume.7f7c49197a32d37479c3.jpg",
+    "static/media/aboutus.png": "/static/media/aboutus.5855818a3900933ffc6e.png",
+    "static/media/freecourses.jpg": "/static/media/freecourses.f78c3ddf9aec0757c434.jpg",
+    "static/media/mentors.jpg": "/static/media/mentors.399bff77a5b78d2f0fe6.jpg",
+    "static/media/features.jpg": "/static/media/features.a18c77d795e105bac785.jpg",
+    "index.html": "/index.html",
+    "main.6cb9187b.css.map": "/static/css/main.6cb9187b.css.map",
+    "main.8bbae9a2.js.map": "/static/js/main.8bbae9a2.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb9187b.css",
+    "static/js/main.8bbae9a2.js"
+  ]
+}
